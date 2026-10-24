@@ -1,0 +1,452 @@
+[
+  {
+    "id": "q_0",
+    "question": "How many PTO days do we get?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_1",
+    "question": "What is the return policy for electronics?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_2",
+    "question": "Who is the VP of Engineering?",
+    "ground_truth": "Sarah Jenkins is the VP of Engineering.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_3",
+    "question": "How long does standard shipping take?",
+    "ground_truth": "Standard shipping takes 3-5 business days across the continental US.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_4",
+    "question": "Do part-time employees get sick days?",
+    "ground_truth": "Yes, part-time employees get 3 paid sick days per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_5",
+    "question": "When are refunds processed?",
+    "ground_truth": "Refunds are processed within 7 business days of receiving the returned item.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_6",
+    "question": "How many PTO days do we get 6?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the return policy for electronics 7?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_8",
+    "question": "Who is the VP of Engineering 8?",
+    "ground_truth": "Sarah Jenkins is the VP of Engineering.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_9",
+    "question": "How long does standard shipping take 9?",
+    "ground_truth": "Standard shipping takes 3-5 business days across the continental US.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_10",
+    "question": "Do part-time employees get sick days 10?",
+    "ground_truth": "Yes, part-time employees get 3 paid sick days per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_11",
+    "question": "When are refunds processed 11?",
+    "ground_truth": "Refunds are processed within 7 business days of receiving the returned item.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_12",
+    "question": "How many PTO days do we get 12?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_13",
+    "question": "What is the return policy for electronics 13?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_14",
+    "question": "Who is the VP of Engineering 14?",
+    "ground_truth": "Sarah Jenkins is the VP of Engineering.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_15",
+    "question": "How long does standard shipping take 15?",
+    "ground_truth": "Standard shipping takes 3-5 business days across the continental US.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_16",
+    "question": "Do part-time employees get sick days 16?",
+    "ground_truth": "Yes, part-time employees get 3 paid sick days per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_17",
+    "question": "When are refunds processed 17?",
+    "ground_truth": "Refunds are processed within 7 business days of receiving the returned item.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_18",
+    "question": "How many PTO days do we get 18?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_19",
+    "question": "What is the return policy for electronics 19?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_20",
+    "question": "Who is the VP of Engineering 20?",
+    "ground_truth": "Sarah Jenkins is the VP of Engineering.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_21",
+    "question": "How long does standard shipping take 21?",
+    "ground_truth": "Standard shipping takes 3-5 business days across the continental US.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_22",
+    "question": "Do part-time employees get sick days 22?",
+    "ground_truth": "Yes, part-time employees get 3 paid sick days per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_23",
+    "question": "When are refunds processed 23?",
+    "ground_truth": "Refunds are processed within 7 business days of receiving the returned item.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_24",
+    "question": "How many PTO days do we get 24?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_25",
+    "question": "What is the return policy for electronics 25?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_26",
+    "question": "Who is the VP of Engineering 26?",
+    "ground_truth": "Sarah Jenkins is the VP of Engineering.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_27",
+    "question": "How long does standard shipping take 27?",
+    "ground_truth": "Standard shipping takes 3-5 business days across the continental US.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_28",
+    "question": "Do part-time employees get sick days 28?",
+    "ground_truth": "Yes, part-time employees get 3 paid sick days per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_29",
+    "question": "When are refunds processed 29?",
+    "ground_truth": "Refunds are processed within 7 business days of receiving the returned item.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_30",
+    "question": "How many PTO days do we get 30?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_31",
+    "question": "What is the return policy for electronics 31?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_32",
+    "question": "Who is the VP of Engineering 32?",
+    "ground_truth": "Sarah Jenkins is the VP of Engineering.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_33",
+    "question": "How long does standard shipping take 33?",
+    "ground_truth": "Standard shipping takes 3-5 business days across the continental US.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_34",
+    "question": "Do part-time employees get sick days 34?",
+    "ground_truth": "Yes, part-time employees get 3 paid sick days per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_35",
+    "question": "When are refunds processed 35?",
+    "ground_truth": "Refunds are processed within 7 business days of receiving the returned item.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_36",
+    "question": "How many PTO days do we get 36?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_37",
+    "question": "What is the return policy for electronics 37?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_38",
+    "question": "Who is the VP of Engineering 38?",
+    "ground_truth": "Sarah Jenkins is the VP of Engineering.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_39",
+    "question": "How long does standard shipping take 39?",
+    "ground_truth": "Standard shipping takes 3-5 business days across the continental US.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_40",
+    "question": "Do part-time employees get sick days 40?",
+    "ground_truth": "Yes, part-time employees get 3 paid sick days per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_41",
+    "question": "When are refunds processed 41?",
+    "ground_truth": "Refunds are processed within 7 business days of receiving the returned item.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_42",
+    "question": "How many PTO days do we get 42?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_43",
+    "question": "What is the return policy for electronics 43?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_44",
+    "question": "Who is the VP of Engineering 44?",
+    "ground_truth": "Sarah Jenkins is the VP of Engineering.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_45",
+    "question": "How long does standard shipping take 45?",
+    "ground_truth": "Standard shipping takes 3-5 business days across the continental US.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_46",
+    "question": "Do part-time employees get sick days 46?",
+    "ground_truth": "Yes, part-time employees get 3 paid sick days per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_47",
+    "question": "When are refunds processed 47?",
+    "ground_truth": "Refunds are processed within 7 business days of receiving the returned item.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_48",
+    "question": "How many PTO days do we get 48?",
+    "ground_truth": "Employees are entitled to 20 days of paid time off (PTO) per year.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_49",
+    "question": "What is the return policy for electronics 49?",
+    "ground_truth": "Electronics can be returned within 14 days in original packaging.",
+    "relevant_document_ids": [],
+    "relevant_chunk_ids": [],
+    "category": "simple",
+    "difficulty": "easy"
+  }
+]
